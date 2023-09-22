@@ -1,6 +1,6 @@
-**Hello, World!** 👋
+<h2>Hello, World! 👋</h2>
 
-  B.Tech IT Student | Aspiring Software Developer | Tech Enthusiast  
+  **B.Tech IT Student | Aspiring Software Developer | Tech Enthusiast** 
 
 🎓 Studying B.Tech in Information Technology at Mckv Institue of Engineering
 
