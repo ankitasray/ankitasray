@@ -20,3 +20,5 @@
 
 🌟 [Linkedin](linkedin.com/in/ankita-sinha-ray-911820236) || [Gmail](ankitasinharay3@gmail.com)
 
+[![An image of @ankitasray's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitasray)](https://holopin.io/@ankitasray)
+
