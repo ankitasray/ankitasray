@@ -18,7 +18,7 @@
 
 📫 Let's connect! Feel free to reach out for discussions or collaborations
 
-🌟 [Linkedin](linkedin.com/in/ankita-sinha-ray-911820236) || [Gmail](ankitasinharay3@gmail.com)
+🌟 [Linkedin](https://linkedin.com/in/ankita-sinha-ray) || [Gmail](ankitasinharay3@gmail.com)
 
 
 
