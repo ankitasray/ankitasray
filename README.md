@@ -1,4 +1,4 @@
-<h2>Hello, World! 👋</h2>
+<h2>Hello, I'm Ankita! 👋</h2>
 
   **B.Tech IT Student | Aspiring Software Developer | Tech Enthusiast** 
 
@@ -11,8 +11,6 @@
 🚀 Constantly expanding my skills in C++,web development and cloud computing
 
 📚 Love diving into algorithms, data structures, and software engineering principles
-
-🌐 Creating meaningful projects that fuse innovation and practicality
 
 📫 Let's connect! Feel free to reach out for discussions or collaborations
 
@@ -33,6 +31,7 @@
 
 <a href = "https://www.linkedin.com/in/ankita-sinha-ray/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sinharayAnkita"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+[![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:ankitasinharay3@gmail.com)
 
 </p>
 
