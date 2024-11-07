@@ -16,20 +16,26 @@
 
 📫 Let's connect! Feel free to reach out for discussions or collaborations
 
-## 📊 My Github Stats
+<h2 align="center">Leetcode Info<h2>  
 <p align="center">
-    <a href="https://github.com/ankitasray/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitasray&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a></p>
- <br/>
-    <a href="https://github.com/ankitasray/github-readme-stats"><img alt="Ankita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankitasray&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ankitasray/github-readme-stats"><img alt="Ankita'sTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasray&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+ <img src="https://leetcode-badge-showcase.vercel.app/api?username=ankita_sinharay&animated=true&&theme=dark" alt="LeetCode Badges"/>
+ <img align=right border-radius=1 flex-grow=1 src="https://leetcard.jacoblin.cool/ankita_sinharay?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ankitasray&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ankitasray&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasray&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
+  <br/>
+
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/ankita-sinha-ray/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sinharayAnkita"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
