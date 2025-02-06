@@ -19,7 +19,7 @@
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ankita_sinharay&animated=true&&theme=dark" alt="LeetCode Badges"/>
- <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ankita_sinharay?theme=dark&font=Nunito&ext=heatmap" />  
+<!--  <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ankita_sinharay?theme=dark&font=Nunito&ext=heatmap" />   -->
 </p>
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
